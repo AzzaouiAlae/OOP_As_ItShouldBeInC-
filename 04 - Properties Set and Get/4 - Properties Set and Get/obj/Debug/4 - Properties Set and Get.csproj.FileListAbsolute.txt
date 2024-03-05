@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\bin\Debug\4 - Properties Set and Get.exe.config
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\bin\Debug\4 - Properties Set and Get.exe
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\bin\Debug\4 - Properties Set and Get.pdb
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\obj\Debug\4 - Properties Set and Get.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\obj\Debug\4 - Properties Set and Get.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\obj\Debug\4 - Properties Set and Get.exe
+D:\source\16 - OOP As It Should Be In C#\4 - Properties Set and Get\4 - Properties Set and Get\obj\Debug\4 - Properties Set and Get.pdb

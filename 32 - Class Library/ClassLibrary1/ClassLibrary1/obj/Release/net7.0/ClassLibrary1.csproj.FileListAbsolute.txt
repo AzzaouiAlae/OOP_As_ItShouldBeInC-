@@ -1,0 +1,11 @@
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\bin\Release\net7.0\ClassLibrary1.deps.json
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\bin\Release\net7.0\ClassLibrary1.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\bin\Release\net7.0\ClassLibrary1.pdb
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.AssemblyInfo.cs
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\refint\ClassLibrary1.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ClassLibrary1.pdb
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary1\ClassLibrary1\obj\Release\net7.0\ref\ClassLibrary1.dll

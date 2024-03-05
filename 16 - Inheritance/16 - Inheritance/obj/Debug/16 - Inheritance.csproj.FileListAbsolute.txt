@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\bin\Debug\16 - Inheritance.exe.config
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\bin\Debug\16 - Inheritance.exe
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\bin\Debug\16 - Inheritance.pdb
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\obj\Debug\16 - Inheritance.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\obj\Debug\16 - Inheritance.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\obj\Debug\16 - Inheritance.exe
+D:\source\16 - OOP As It Should Be In C#\16 - Inheritance\16 - Inheritance\obj\Debug\16 - Inheritance.pdb

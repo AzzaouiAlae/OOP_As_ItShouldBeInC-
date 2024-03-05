@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\bin\Debug\30 - Partial Class.exe.config
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\bin\Debug\30 - Partial Class.exe
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\bin\Debug\30 - Partial Class.pdb
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\obj\Debug\30 - Partial Class.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\obj\Debug\30 - Partial Class.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\obj\Debug\30 - Partial Class.exe
+D:\source\16 - OOP As It Should Be In C#\30 - Partial Class\30 - Partial Class\obj\Debug\30 - Partial Class.pdb

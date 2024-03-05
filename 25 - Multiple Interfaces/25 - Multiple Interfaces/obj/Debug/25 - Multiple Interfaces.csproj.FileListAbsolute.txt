@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\bin\Debug\25 - Multiple Interfaces.exe.config
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\bin\Debug\25 - Multiple Interfaces.exe
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\bin\Debug\25 - Multiple Interfaces.pdb
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\obj\Debug\25 - Multiple Interfaces.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\obj\Debug\25 - Multiple Interfaces.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\obj\Debug\25 - Multiple Interfaces.exe
+D:\source\16 - OOP As It Should Be In C#\25 - Multiple Interfaces\25 - Multiple Interfaces\obj\Debug\25 - Multiple Interfaces.pdb

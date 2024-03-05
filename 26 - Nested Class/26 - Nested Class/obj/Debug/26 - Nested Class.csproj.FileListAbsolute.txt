@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\bin\Debug\26 - Nested Class.exe.config
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\bin\Debug\26 - Nested Class.exe
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\bin\Debug\26 - Nested Class.pdb
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\obj\Debug\26 - Nested Class.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\obj\Debug\26 - Nested Class.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\obj\Debug\26 - Nested Class.exe
+D:\source\16 - OOP As It Should Be In C#\26 - Nested Class\26 - Nested Class\obj\Debug\26 - Nested Class.pdb

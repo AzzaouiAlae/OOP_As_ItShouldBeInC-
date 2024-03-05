@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\bin\Debug\5 - ReadOnly Properties.exe.config
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\bin\Debug\5 - ReadOnly Properties.exe
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\bin\Debug\5 - ReadOnly Properties.pdb
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\obj\Debug\5 - ReadOnly Properties.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\obj\Debug\5 - ReadOnly Properties.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\obj\Debug\5 - ReadOnly Properties.exe
+D:\source\16 - OOP As It Should Be In C#\5 - ReadOnly Properties\5 - ReadOnly Properties\obj\Debug\5 - ReadOnly Properties.pdb

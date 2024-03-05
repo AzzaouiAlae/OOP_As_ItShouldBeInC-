@@ -1,0 +1,8 @@
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\bin\Debug\1 - Class & Object.exe.config
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\bin\Debug\1 - Class & Object.exe
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\bin\Debug\1 - Class & Object.pdb
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\obj\Debug\1 - Class & Object.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\obj\Debug\1 - Class & Object.csproj.SuggestedBindingRedirects.cache
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\obj\Debug\1 - Class & Object.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\obj\Debug\1 - Class & Object.exe
+D:\source\16 - OOP As It Should Be In C#\1 - Class & Object\1 - Class & Object\obj\Debug\1 - Class & Object.pdb

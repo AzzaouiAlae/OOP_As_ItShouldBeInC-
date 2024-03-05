@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\bin\Debug\3 - Static Members.exe.config
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\bin\Debug\3 - Static Members.exe
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\bin\Debug\3 - Static Members.pdb
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\obj\Debug\3 - Static Members.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\obj\Debug\3 - Static Members.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\obj\Debug\3 - Static Members.exe
+D:\source\16 - OOP As It Should Be In C#\3 - Static Members\3 - Static Members\obj\Debug\3 - Static Members.pdb

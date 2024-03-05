@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\bin\Debug\_15___App.Static_and_Constructors.exe.config
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\bin\Debug\_15___App.Static_and_Constructors.exe
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\bin\Debug\_15___App.Static_and_Constructors.pdb
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\obj\Debug\15 - App. Static and Constructors.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\obj\Debug\15 - App. Static and Constructors.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\obj\Debug\_15___App.Static_and_Constructors.exe
+D:\source\16 - OOP As It Should Be In C#\15 - App. Static and Constructors\15 - App. Static and Constructors\obj\Debug\_15___App.Static_and_Constructors.pdb

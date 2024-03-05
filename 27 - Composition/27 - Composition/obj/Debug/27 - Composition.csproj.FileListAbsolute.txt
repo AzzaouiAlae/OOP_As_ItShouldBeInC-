@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\bin\Debug\27 - Composition.exe.config
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\bin\Debug\27 - Composition.exe
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\bin\Debug\27 - Composition.pdb
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\obj\Debug\27 - Composition.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\obj\Debug\27 - Composition.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\obj\Debug\27 - Composition.exe
+D:\source\16 - OOP As It Should Be In C#\27 - Composition\27 - Composition\obj\Debug\27 - Composition.pdb

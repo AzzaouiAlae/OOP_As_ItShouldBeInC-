@@ -1,0 +1,6 @@
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

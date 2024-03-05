@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\bin\Debug\9 - Parameter-less Constructor.exe.config
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\bin\Debug\9 - Parameter-less Constructor.exe
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\bin\Debug\9 - Parameter-less Constructor.pdb
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\obj\Debug\9 - Parameter-less Constructor.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\obj\Debug\9 - Parameter-less Constructor.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\obj\Debug\9 - Parameter-less Constructor.exe
+D:\source\16 - OOP As It Should Be In C#\9 - Parameter-less Constructor\9 - Parameter-less Constructor\obj\Debug\9 - Parameter-less Constructor.pdb

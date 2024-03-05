@@ -1,0 +1,7 @@
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\bin\Debug\14 - Destructor.exe.config
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\bin\Debug\14 - Destructor.exe
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\bin\Debug\14 - Destructor.pdb
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\obj\Debug\14 - Destructor.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\obj\Debug\14 - Destructor.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\obj\Debug\14 - Destructor.exe
+D:\source\16 - OOP As It Should Be In C#\14 - Destructor\14 - Destructor\obj\Debug\14 - Destructor.pdb

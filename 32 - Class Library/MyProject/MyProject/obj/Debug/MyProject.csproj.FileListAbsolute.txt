@@ -1,0 +1,10 @@
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\bin\Debug\MyProject.exe.config
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\bin\Debug\MyProject.exe
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\bin\Debug\MyProject.pdb
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\bin\Debug\ClassLibrary1.dll
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\obj\Debug\MyProject.csproj.CopyComplete
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\obj\Debug\MyProject.exe
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\obj\Debug\MyProject.pdb
+D:\source\16 - OOP As It Should Be In C#\32 - Class Library\MyProject\MyProject\bin\Debug\ClassLibrary1.pdb
